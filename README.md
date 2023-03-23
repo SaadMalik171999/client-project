@@ -1,11 +1,57 @@
 # ClientProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+This Project is based on frontend tech Angular version 15 and backend is based on ASP.NET CORE WEB API v.6.
+
+Project Demo Video:
+
+https://user-images.githubusercontent.com/74017136/227253073-5f849bd8-64fb-42f7-b3fe-01696f5a772b.mp4
 
 
-Project Video:
+## Packages Dependencies:
+✔️ ng-apexcharts<br></br>
+✔️ @angular/forms<br></br>
+✔️ @angular/material
+✔️ @angular/router
+✔️ @angular/animations
 
-https://user-images.githubusercontent.com/74017136/227252097-a44a70a3-8f4c-409a-8df9-168503b5f4d6.mp4
+
+## Software Dependencies:
+✔️ Visual Studio Code.<br></br>
+
+## Software Dependencies:
+✔️ Visual Studio Code.<br></br>
+
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+
+✔️ node@v10.16.0 or higher
+✔️ npm@6.9.0 or higher
+✔️ git@2.17.1 or higher
+✔️ angular@v10.16.0 or higher
+
+## How To Use 
+
+From your command line, clone and run developerFolio:
+
+```bash
+# Clone this repository
+git clone https://github.com/SaadMalik171999/client-project.git
+
+# Go into the repository
+cd client-project
+
+# Setup default environment variables
+
+# Install dependencies
+npm install
+
+# Start a local dev server
+ng serve --open
+
+
+
 
 
 
