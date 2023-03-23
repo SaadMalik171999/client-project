@@ -10,13 +10,10 @@ https://user-images.githubusercontent.com/74017136/227253073-5f849bd8-64fb-42f7-
 ## Packages Dependencies:
 ✔️ ng-apexcharts<br></br>
 ✔️ @angular/forms<br></br>
-✔️ @angular/material
-✔️ @angular/router
+✔️ @angular/material<br></br>
+✔️ @angular/router<br></br>
 ✔️ @angular/animations
 
-
-## Software Dependencies:
-✔️ Visual Studio Code.<br></br>
 
 ## Software Dependencies:
 ✔️ Visual Studio Code.<br></br>
@@ -26,10 +23,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
 
-✔️ node@v10.16.0 or higher
-✔️ npm@6.9.0 or higher
-✔️ git@2.17.1 or higher
-✔️ angular@v10.16.0 or higher
+✔️ node@v10.16.0 or higher<br></br>
+✔️ npm@6.9.0 or higher<br></br>
+✔️ git@2.17.1 or higher<br></br>
+✔️ angular@v10.16.0 or higher<br></br>
 
 ## How To Use 
 
