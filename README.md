@@ -39,17 +39,11 @@ git clone https://github.com/SaadMalik171999/client-project.git
 # Go into the repository
 cd client-project
 
-# Setup default environment variables
-
 # Install dependencies
 npm install
 
 # Start a local dev server
 ng serve --open
-
-
-
-
 
 
 ## Development server
